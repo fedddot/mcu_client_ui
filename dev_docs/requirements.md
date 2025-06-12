@@ -13,3 +13,8 @@
     - current g-code line
     - an array of all the lines from the text box
 - The application should be initialized on the start-up from the persistence data
+# Code management
+- create a virtual environment for application
+- add all the python dependencies into requirements.txt file
+# Documentation
+- Describe the functionality of the app in README.md
